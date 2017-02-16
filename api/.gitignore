@@ -1,0 +1,6 @@
+vendor/*
+app/var/cache/data/*
+app/var/cache/metadata/*
+app/var/cache/annotations/*
+app/var/cache/volt/*
+public/uploads/*

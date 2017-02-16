@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-admob/android/RNAdMob.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-admob/android/RNAdMob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bida365.iml" filepath="$PROJECT_DIR$/bida365.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-android-statusbar/react-native-android-statusbar.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-android-statusbar/react-native-android-statusbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-onesignal/android/react-native-onesignal.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-onesignal/android/react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-photo-view/android/react-native-photo-view.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-photo-view/android/react-native-photo-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-video/android/react-native-video.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-video/android/react-native-video.iml" />
+    </modules>
+  </component>
+</project>

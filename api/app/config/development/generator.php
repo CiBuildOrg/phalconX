@@ -1,0 +1,20 @@
+<?php
+return [
+    'moduleRoot' => 'app/modules',
+    'controllerRoot' => 'Controller',
+    'modelRoot' => 'Model',
+    'localesRoot' => 'Locales',
+    'viewRoot' => 'View',
+    'configRoot' => 'app/config',
+    'minRoot' => 'min',
+    'publicRoot' => 'public',
+    'templateRoot' => 'app/modules/Generator/Plugin/Template/_files',
+    'bootstrapTemplate' => 'bootstrap.volt',
+    'modelCustomTemplate' => 'model.volt',
+    'modelConstantTemplate' => 'constant.volt',
+    'controllerTemplate' => 'controller.volt',
+    'viewCustomIndexTemplate' => 'view-index.volt',
+    'viewCustomCreateTemplate' => 'view-create.volt',
+    'viewCustomEditTemplate' => 'view-edit.volt',
+    'localesTemplate' => 'locales.volt',
+];

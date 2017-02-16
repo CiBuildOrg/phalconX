@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_69b641e1be95c18015565f03215da0c67684bad7.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/me.relex/photodraweeview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5ceac4d4c5f5559d813fb8e0419203a51b40462">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/me.relex-photodraweeview-1.0.0_2b5b68637bb6346b3007f6cd4b38b04e5059570b.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_acbc797ab8a30f2fc67c193f368e619423c9f250.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-photo-view/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="264d9d8aa5a8fe68cba23508c378ff8f9599fe9e">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-photo-view-unspecified_88da6f9052d6b3fc2a1863abbb042af70dac9e01.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_ea0b1894a591539c85c558fd259f980b94173fb2.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_46ec7c314fa3bf246a8be32b52d70127e86d902c.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_380584eba923edcb1e3be3d63f9e8ed89fcf0d36.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.39.2_7bcfce3c29cefe0d9512272665ffb2e19efd8725.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_ea532b685159df9b0594961829a99a4c38868907.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.0_047659e188b65a561c57228e6fc0ebd589d631d5.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-android-statusbar/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a83e8114574f1caeed9fbfda7209da64aec622f">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-android-statusbar-unspecified_9cb4633a61bf775ff0ae856bbba33a74883c8072.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_721ba99ac521a86fe721e3a29f31591cca394f20.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_a3cb1d58b5021984b2b3e31a57ffe86dd3f80de5.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-onesignal/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb20d3e0d621505805740a95a9fa05ef3eadd9f0">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-onesignal-unspecified_aef9a15d5d3a8b3f799d568cb8432bf9faa72e8e.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5014f967446c9e1570abf782706213bd6c9f4c0a.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_d9fbeacd4d98c37da06854b79a934d5bad63465b.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.0_8bbfcbe407d23f6dd82e3255bfb46760f367f713.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_60814660f35c0ff68c4d24c5f160dc233aaee4d7.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_60daf93761ed04f06ae3bcaf4e78e4b28de075d1.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_fbf2529070e9b8c32b651cfac9c3dc376b85605d.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_69720b4a4499e8ce4d569d359c24496f71554618.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_e8ec799f4fe1b727165fb0504bcaf4825cd49d15.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_08576f26117cac01234ccdcc2a0211c832ec8ed8.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.0_8389bfbe32eb9221ccb1722b97c93308efc9521a.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.0_86b3f60e36e15ddb27a697a05c92169c6442d038.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-onesignal/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d68ec9a87246cdacbe71134a0d25acfc3a85cd13">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-onesignal-unspecified_aef9a15d5d3a8b3f799d568cb8432bf9faa72e8e.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_a3cb1d58b5021984b2b3e31a57ffe86dd3f80de5.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_60daf93761ed04f06ae3bcaf4e78e4b28de075d1.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.0_cc2798ef5a27bf58e26ea290b6f1903f56862743.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_e098467594c6947ea5b9351f266ffd45d3739171.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ec0918846f86b71b5ef260099fa310a5b79f2d26.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.0_0283667574ce11f14b696f627ef211e8ee14d5bf.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_549e287b2f56cf1f20433c888ce7132baca0b1d0.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/2.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-2.6.2_3e7d144fd4db8ee6925d79a0360150e7528664c5.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_acbc797ab8a30f2fc67c193f368e619423c9f250.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_0348c498291e6b70074504d00d9597b22330e6c9.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-admob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="521b09c06c388e0a646c230da5d31ddac6f7a2ee">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-admob-unspecified_9cf6b9a667eceb6bede7139babb1b8d7fea4e99c.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85832eaabd83a55f651283b04529dfc1106c6cd">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-video-unspecified_24233fb38d800b1b97e27473cf3b04f2ac380fd2.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.0_047659e188b65a561c57228e6fc0ebd589d631d5.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.0_8bbfcbe407d23f6dd82e3255bfb46760f367f713.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_549e287b2f56cf1f20433c888ce7132baca0b1d0.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-android-statusbar/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="defd98dbe8d28c55547a78ebbfd45e1eb2adf552">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-android-statusbar-unspecified_9cb4633a61bf775ff0ae856bbba33a74883c8072.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_e098467594c6947ea5b9351f266ffd45d3739171.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5014f967446c9e1570abf782706213bd6c9f4c0a.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_98445c7939ce1e2f8d4c9a08b741e919217a16fe.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_60814660f35c0ff68c4d24c5f160dc233aaee4d7.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_e8ec799f4fe1b727165fb0504bcaf4825cd49d15.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_fbf2529070e9b8c32b651cfac9c3dc376b85605d.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_69720b4a4499e8ce4d569d359c24496f71554618.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_08576f26117cac01234ccdcc2a0211c832ec8ed8.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_e29a16a5a41fc06ea6b65fc5a98e5d470bc0f86d.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_42388b7f8a089454557d92eb7ea88d50099c68a8.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-photo-view/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b04ff2fee5c9bcebf395768900b7618091d0215e">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-photo-view-unspecified_88da6f9052d6b3fc2a1863abbb042af70dac9e01.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_4f4a3de962706f08d83cf39ad8d16b69e252230e.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_46ec7c314fa3bf246a8be32b52d70127e86d902c.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_ea0b1894a591539c85c558fd259f980b94173fb2.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.39.2_7bcfce3c29cefe0d9512272665ffb2e19efd8725.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_d12b661a5819b60804d3807fc1a3057b2fb174d2.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.0_c024321d9b1ae15b57ce222340c5bfa2ac923252.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_ea532b685159df9b0594961829a99a4c38868907.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93975e6369b3bcd7cd1f2914de605b47e42c1933">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-vector-icons-unspecified_788b217ca078baa5806aea7731162d3180e4b1c4.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.0_aee07c7248f29c408800afacf2669e1e5f693431.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/2.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-2.6.2_3e7d144fd4db8ee6925d79a0360150e7528664c5.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.0_0283667574ce11f14b696f627ef211e8ee14d5bf.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_42388b7f8a089454557d92eb7ea88d50099c68a8.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_2d7fb624480b5dc9b5c3d1abf4d4b6f08df05729.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_4f4a3de962706f08d83cf39ad8d16b69e252230e.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_e29a16a5a41fc06ea6b65fc5a98e5d470bc0f86d.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_2961391d433d94109dab5e57ce26d46b6de6e5ab.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aecead1d418067c4660d02f833f310a10a347a1c">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-video-unspecified_24233fb38d800b1b97e27473cf3b04f2ac380fd2.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_d12b661a5819b60804d3807fc1a3057b2fb174d2.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/bida365/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05fb077938afb6fae376f4febabc38f7ddf82daf">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bida365-react-native-vector-icons-unspecified_788b217ca078baa5806aea7731162d3180e4b1c4.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.0_08e6c584fa1d94c522b283dc6d5367206bd474e4.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_69b641e1be95c18015565f03215da0c67684bad7.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.0_86b3f60e36e15ddb27a697a05c92169c6442d038.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/me.relex/photodraweeview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5ceac4d4c5f5559d813fb8e0419203a51b40462">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/me.relex-photodraweeview-1.0.0_2b5b68637bb6346b3007f6cd4b38b04e5059570b.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_98445c7939ce1e2f8d4c9a08b741e919217a16fe.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_d9fbeacd4d98c37da06854b79a934d5bad63465b.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_380584eba923edcb1e3be3d63f9e8ed89fcf0d36.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.0_cc2798ef5a27bf58e26ea290b6f1903f56862743.jar" />
+    </item>
+    <item
+        jar="/Users/nguyenducduy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nguyenducduy/www/react-native-redux/bida365/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ec0918846f86b71b5ef260099fa310a5b79f2d26.jar" />
+    </item>
+
+</items>

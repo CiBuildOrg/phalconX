@@ -1,0 +1,17 @@
+#!/bin/bash
+
+declare -r phpBin="$(which php)"
+export ENVIRONMENT="development"
+export MODE="cli"
+
+if [ -z "$1" ]; then
+    echo -e "Supported arguments:
+        * php   - Run application console
+        * db    - Run phinx database migration
+        * cron  - Run crunz cron task
+    "
+elif [ "$1" == "php" ]; then
+    echo "$($phpBin public/cmd.php ${@:2})"
+elif [ "$1" == "db" ]; then
+    echo "$($phpBin vendor/bin/phinx ${@:2})"
+fi
