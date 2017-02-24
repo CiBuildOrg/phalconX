@@ -33,12 +33,12 @@ class User extends AbstractModel
     public $id;
 
     /**
-    * @Column(type="string", nullable=true, column="u_screenname")
+    * @Column(type="string", nullable=true, column="u_screen_name")
     */
     public $screenname;
 
     /**
-    * @Column(type="string", nullable=true, column="u_fullname")
+    * @Column(type="string", nullable=true, column="u_full_name")
     */
     public $fullname;
 
@@ -53,19 +53,9 @@ class User extends AbstractModel
     public $password;
 
     /**
-    * @Column(type="integer", nullable=true, column="u_groupid")
+    * @Column(type="integer", nullable=true, column="u_group_id")
     */
     public $groupid;
-
-    /**
-    * @Column(type="integer", nullable=true, column="u_gender")
-    */
-    public $gender;
-
-    /**
-    * @Column(type="integer", nullable=true, column="u_region")
-    */
-    public $region;
 
     /**
     * @Column(type="string", nullable=true, column="u_avatar")

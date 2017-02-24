@@ -76,5 +76,4 @@ RUN echo "/opt/service/supervisord" >> /etc/rc.local
 EXPOSE 22 80 9000
 
 RUN useradd -ms /bin/bash www-data
-# ENTRYPOINT /opt/service/supervisord -c /opt/service/supervisord.conf && /bin/bash
-CMD ["/opt/service/supervisord"]
+ENTRYPOINT /opt/service/supervisord && /bin/bash
